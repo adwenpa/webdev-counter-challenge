@@ -1,5 +1,21 @@
 1. Why do you use "using strict" at the top of your JS files?
+
+It ensures more stringent error checking.
+
+
 2. What does line 3 mean?
+
+Create a count variable and initialize it to 0.
+
+
 3. What is happening on lines 5-8 and why?
+
+You declared constants for for the buttons and count paragraph.
+The names describe their function and they are shorter and easier to work with.
+
+
 4. If you implemented the functionality of the buttons,
    why do you think I wrote the JS code the way I did?
+
+   The functions and their descriptive names make it easier to follow the logic.
+
